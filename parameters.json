@@ -1,0 +1,6 @@
+{
+    "email" : "YOUR EMAIL",
+    "password" : "YOUR PASSWORD",
+    "groups_link" : ["https://www.facebook.com/groups/your_group/"],
+    "minimal_likes" : 1
+}
