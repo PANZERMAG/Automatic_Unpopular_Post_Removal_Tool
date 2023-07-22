@@ -1,15 +1,18 @@
 
 <div align="center">
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
-[![Made with Python](https://img.shields.io/badge/Python->=3.7-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+  
+  [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+  [![Made with Python](https://img.shields.io/badge/Python->=3.7-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 </div>
 
 <div align="center">
-[![MichaelCurrin - badge-generator](https://img.shields.io/static/v1?label=PANZERMAG&message=Automatic_Unpopular_Post_Removal_Tool&color=blue&logo=github)](https://github.com/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool)
-[![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
-[![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
+  
+  [![PANZERMAG - Automatic_Unpopular_Post_Removal_Tool](https://img.shields.io/static/v1?label=PANZERMAG&message=Automatic_Unpopular_Post_Removal_Tool&color=blue&logo=github)](https://github.com/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool)
+  [![stars - badge-generator](https://img.shields.io/github/stars/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool?style=social)](https://github.com/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool)
+  [![forks - badge-generator](https://img.shields.io/github/forks/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool?style=social)](https://github.com/PANZERMAG/Automatic_Unpopular_Post_Removal_Tool)
 </div>
-# Automatic delete unpopulat posts from Facebook
+
+# Automatic delete unpopular posts from Facebook
 In Facebook groups and groups on social networks sometimes posts don't have an expected count of likes. And this app completely solves this problem.
 
 
@@ -30,15 +33,15 @@ Install this project with git
     
 ## Deployment
 
-Firstly, you need to create a virtual enviroment
+Firstly, you need to create a virtual environment
 
 ```bash
   python -m venv venv
 ```
 
-After that you need activate the virtual enviroment.
+After that, you need to activate the virtual environment.
 
-**For windows:**
+**For Windows:**
 ```bash
   venv/Scripst/activate.bat
 ```
@@ -68,11 +71,11 @@ To run this project, you will need to add the following environment variables to
 
 
 ## NOTE!
-Do not remember add your webdriver to folder with project and change the **PATH** in the *main.py *(10 line)
+Do not remember to add your web driver to the folder with a project and change the **PATH** in the *main.py* (10 line)
 ## Run
-After this all manipulating you can run the *main.py*
+After all manipulating you can run the *main.py*
 
-**For windows**
+**For Windows**
 ```bash
     python main.py
 ```
